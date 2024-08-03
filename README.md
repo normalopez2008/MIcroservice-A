@@ -24,18 +24,18 @@ Install Python Packages and dependencies:
   - Ensure you have Python installed.
   - Install required packages using `requirements.txt`
 
-`pip install -r microservice/requirements.txt`
+`pip install -r server/requirements.txt`
  
 
 2. Configuration
 
 Add Your API Key:
-  - Open `microservice/app.py`.
+  - Open `server/app.py`.
   - Replace `'YOUR_API_KEY_HERE'` with your actual API key
 
 3. Start the Microservice:
    Terminal 1:
-  `python microservice/app.py`
+  `python server/app.py`
   
 
 4. Send a Request:
