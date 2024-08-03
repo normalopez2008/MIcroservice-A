@@ -7,7 +7,7 @@ This microservice generates random images for playlist covers using the [API Nin
 
 What I Have Done
 
-Implemented a microservice that:
+Implemented a server script that:
   - Listens for requests via ZeroMQ.
   - Fetches random images from the API Ninjas service.
   - Returns the URL of the generated image.
